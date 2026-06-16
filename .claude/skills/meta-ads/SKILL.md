@@ -54,7 +54,7 @@ These files provide detailed methodology on specific topics. The OS drives decis
 
 ## Core Rules
 
-1. **Never cite external sources** in client-facing materials. Present methodology as internal expertise.
+1. **Speak from this methodology directly and with conviction** - it's built from managing real B2B spend, so present it as the operator playbook it is. Don't pad with generic "best practices."
 
 2. **Data quality determines Meta success for B2B.** Always follow the data hierarchy: CRM lookalikes (Tier 1) -> Third-party data (Tier 2) -> Broad targeting (Tier 3). Never skip to broad without testing data-driven audiences first.
 

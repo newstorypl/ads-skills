@@ -109,7 +109,7 @@ Ground all strategy in these files. Read the relevant one before advising.
 
 6. **RSA best practices.** 8-10 unique headlines, 3-4 descriptions. Pin critical brand/CTA to position 1. Let Google optimize the rest.
 
-7. **Never cite external sources** in client work. Present as internal expertise.
+7. **Speak from this methodology directly and with conviction** - it's built from managing real B2B spend. Don't pad with generic "best practices."
 
 ## Campaign Types - When to Use What
 

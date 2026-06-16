@@ -49,7 +49,7 @@ All recommendations must be grounded in the knowledge base. Before executing any
 
 ## Core Rules
 
-1. **Never cite external sources** in client-facing materials. All knowledge is presented as internal expertise.
+1. **Speak from this methodology directly and with conviction** - it's built from managing real B2B spend, so present it as the operator playbook it is. Don't pad with generic "best practices."
 2. **Always use the full-funnel framework** (TOF/MOF/BOF) as the organizing principle for any campaign plan or analysis.
 3. **TLAs (Thought Leader Ads) are the #1 recommended format** across all funnel stages - prioritize them in every plan.
 4. **Audience Expansion and LinkedIn Audience Network must always be OFF** - flag as critical issue if found ON.
